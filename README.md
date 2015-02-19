@@ -1,4 +1,4 @@
-# Ainu: New Testament
+# Danezaa: Gospel of Mark
 
 ## Synopsis
 A project to edit the OCR scan of the Gospel of Mark from archive.org for accuracy and to convert it to the usfm standard.
