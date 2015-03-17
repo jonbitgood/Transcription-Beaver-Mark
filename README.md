@@ -4,7 +4,6 @@
 
 - **Title**: The Gospel of Mark in Beaver
 - **vernTitle**: Ootech Oochu Takehniya Tinkles St. Mark
-- **body**: 
 - **vernLang**: ᑕᓀ ᖚ
 - **engLang**: Danezaa
 - **ethnologue_code**: bea
