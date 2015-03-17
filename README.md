@@ -18,10 +18,6 @@ A project to edit the OCR scan of the Gospel of Mark from archive.org for accura
   - ~~Add USFM markup~~
   - Done!
 
-## Attribution-ShareAlike 4.0 International
-
-<a href="http://creativecommons.org/licenses/by-sa/4.0/">Read More</a>
-
 If you use this Bible on your website or app please include this text in either the footer, about page, or copyright page.
 
 ```html
