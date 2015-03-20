@@ -6,14 +6,14 @@
 - **Vernacular Title**: Ootech Oochu Takehniya Tinkles St. Mark
 - **Vernacular Lang**: ᑕᓀ ᖚ
 - **English Language Name**: Danezaa
-- **Ethnologue Code**: <a href="http://www.ethnologue.com/language/bea">bea<?a>
+- **Ethnologue Code**: <a href="http://www.ethnologue.com/language/bea">bea</a>
 - **Abbreviation**: BEAOOT
 - **Date**: 1886
 - **Publisher**: London:  British and Foreign Bible Society
 - **Translator**:  EEV. A. C. Garrioch
 
 ## Synopsis
-A project to edit the OCR scan of the Gospel of Mark from archive.org for accuracy and to convert it to the <a href="http://paratext.org/system/files/usfmReference2_4.pdf">usfm standard.</a>
+A project to edit the OCR scan of the Gospel of Mark from archive.org for accuracy and to convert it to the <a href="http://paratext.org/system/files/usfmReference2_4.pdf">usfm standard</a>
   - ~~Manually going over the full text and checking every word.~~
   - ~~Add USFM markup~~
   - Done!
