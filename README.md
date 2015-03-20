@@ -21,5 +21,6 @@ A project to edit the OCR scan of the Gospel of Mark from archive.org for accura
 If you use this Bible on your website or app please include this text in either the footer, about page, or copyright page.
 
 ```html
-<p>This text transcribed by <a href="http://dbs.org">The Digital Bible Society</a> from a physical copy provided by <a href="http://ualberta.ca/">The University of Alberta</a> and has been electronically published under the Creative Commons 4.0 Attribution-ShareAlike.</p>
+<p>This text transcribed by <a href="http://dbs.org">The Digital Bible Society</a>
+from a physical copy provided by <a href="http://ualberta.ca/">The University of Alberta</a></p>
 ```
